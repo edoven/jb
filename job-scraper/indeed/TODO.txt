@@ -1,0 +1,8 @@
+- create git project
+- fix last listing
+- create web interface with micro framework
+- buy server
+- manage logs, error, etc
+- automate the process (cron)
+- clean the data
+- expand to other cities
